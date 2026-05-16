@@ -18,22 +18,39 @@ Solo AI-augmented freelancer running Claude Code as a full-stack pair-programmer
 
 ---
 
-## Featured projects
+## Featured work
 
-| Project | Stack | Link |
-|---|---|---|
-| **AI-Augmented Notion Workspace** — 51 prompts + 12 SOPs + 8 Notion DBs | Claude API · Notion API | [yvoo.gumroad.com/l/ai-notion-workspace](https://yvoo.gumroad.com/l/ai-notion-workspace) |
-| **caveman** — open-source Claude Code skill for terse responses | Bash · Python | [yvoolab/caveman](https://github.com/yvoolab/caveman) |
-| **claude-code-windows-hook** — Windows Stop hook for cross-machine session continuity | PowerShell · Bash | [yvoolab/claude-code-windows-hook](https://github.com/yvoolab/claude-code-windows-hook) |
-| **claude-code-session-sharing** — multi-agent orchestration via git-synced snapshots | Bash · GH Actions | [yvoolab/claude-code-session-sharing](https://github.com/yvoolab/claude-code-session-sharing) |
-| **Production multilingual responsive site** — private client project · domain under NDA | Next.js · Tailwind · Supabase | _(private)_ |
-| **linux-voice-input-zh** — Chinese voice input for Linux | Python · Whisper · xdotool | [yvoolab/linux-voice-input-zh](https://github.com/yvoolab/linux-voice-input-zh) |
+### Industrial-scale revenue prediction (Dataiku)
+
+Trained two segmented ML models, one for new business opportunities and one for renewal and development opportunities, on multi-year CRM + log + finance data covering a high-value multi-vertical account scope for a contract-logistics business unit, forecasting 1 / 3 / 6-month won-opportunity revenue at **89-90% model accuracy**. Replaced a generic CRM-bundled predictive dashboard with a unit-specific model surfacing per-opportunity risk scores that drive sales-resource allocation and pipeline triage.
+
+### Kaggle House Prices regression
+
+End-to-end regression pipeline on the Ames Housing dataset. Public LB **RMSLE 0.13543**, baseline-beating. Also practiced classification (Titanic) and time-series forecasting (Store Sales).
+
+🔗 [kaggle.com/delphine53303](https://www.kaggle.com/delphine53303)
 
 ---
 
-## Background
+## Product & client work
 
-Data science background. Built ML prediction projects using Dataiku. Hands-on Kaggle experience across classification, time-series forecasting, and regression.
+| Project | Stack | Link |
+|---|---|---|
+| **AI-Augmented Notion Workspace** — 51 prompts + 12 SOPs + 8 Notion DBs, live on Gumroad | Claude API · Notion API | [yvoo.gumroad.com/l/ai-notion-workspace](https://yvoo.gumroad.com/l/ai-notion-workspace) |
+| **Production multilingual responsive site** — private client project · domain under NDA | Next.js · Tailwind · Supabase | _(private)_ |
+
+---
+
+## Open-source tooling
+
+| Project | Stack | Link |
+|---|---|---|
+| **caveman** — Claude Code skill for terse responses | Bash · Python | [yvoolab/caveman](https://github.com/yvoolab/caveman) |
+| **claude-code-windows-hook** — Windows Stop hook for cross-machine session continuity (2 ⭐) | PowerShell · Bash | [yvoolab/claude-code-windows-hook](https://github.com/yvoolab/claude-code-windows-hook) |
+| **claude-code-session-sharing** — multi-agent orchestration via git-synced snapshots | Bash · GH Actions | [yvoolab/claude-code-session-sharing](https://github.com/yvoolab/claude-code-session-sharing) |
+| **linux-voice-input-zh** — Chinese voice input for Linux | Python · Whisper · xdotool | [yvoolab/linux-voice-input-zh](https://github.com/yvoolab/linux-voice-input-zh) |
+
+---
 
 ## Languages
 
