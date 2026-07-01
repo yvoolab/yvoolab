@@ -2,7 +2,7 @@
 
 **AI-Augmented Builder · SaaS MVPs · RAG · Data Pipelines · Async · Paris CET · EN/FR/ZH**
 
-Solo AI-augmented freelancer running Claude Code as a full-stack pair-programmer. Data science + full-stack dev + AI integration. Async projects: web/mobile/SaaS MVPs, data pipelines, AI integrations (Claude/OpenAI/RAG), scraping, PDF/Excel automation, internal admin tools, Notion-API workspaces, Stripe-connected prototypes.
+Data scientist turned full-stack AI builder. I run Claude Code as my pair-programmer and ship async projects end to end — web/mobile/SaaS MVPs, data pipelines, AI integrations (Claude/OpenAI/RAG), scraping, PDF/Excel automation, internal admin tools, Notion-API workspaces, Stripe-connected prototypes. This is the system I run on.
 
 ---
 
