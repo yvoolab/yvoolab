@@ -18,6 +18,6 @@ Everything below is extracted from a real multi-machine setup that runs Claude C
 
 ## Working with me
 
-Freelance data scientist & AI engineer — France, remote. Python · TypeScript · Claude API · ML & RAG · agent orchestration · workflow automation. In IT since 2022, data science since 2025, AI & agent systems since 2026.
+Freelance data scientist & AI engineer — France, remote. Python · TypeScript · Claude API · ML & RAG · agent orchestration · workflow automation. In tech since 2022, data science since 2025, LLM and agent systems since 2026.
 
 Open to missions. Reach out through any repo's issues or the links on this profile.
